@@ -1,6 +1,6 @@
 
 import React from "react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/button.jsx"; // Adjust the import path as necessary
 
 export default function HeroSection() {
   return (
